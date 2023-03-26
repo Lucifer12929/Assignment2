@@ -1,6 +1,6 @@
 # Assignment Brief
 
--Created a new React application using create-react-app.
+##### Created a new React application using create-react-app.
 
 -Imported the required packages (react, react-bootstrap).
 
