@@ -1,6 +1,6 @@
 # Assignment Brief
 
-###Created a new React application using create-react-app.
+### Created a new React application using create-react-app.
 Imported the required packages (react, react-bootstrap).
 Created a functional component App and declared its state using the useState hook.
 Defined an async function fetchUsers that fetches user data from the https://reqres.in/api/users API based on a page number passed as an argument, sets the fetched data to the component's state using the setUsers function, and toggles a loading flag using the setIsLoading function.
